@@ -1,0 +1,3 @@
+0
+1478328 67488137 1725883874238139172 9e5ef3d00074a1f51d76c52119d8e8c0 1 .zig-cache/o/27057bb38da7769fdb452cb9fa5ecf69/regz
+1455816 67485802 1723185687000000000 2064be69025a5434d7b161d966c0e0de 0 /Users/workspace/Desktop/projects/ByeIO/software/exp48-esp32c3-microzig-blink/microzig-0.12.1/bsp/espressif/esp/src/chips/ESP32-C3.svd
